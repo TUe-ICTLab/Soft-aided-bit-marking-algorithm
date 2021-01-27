@@ -7,6 +7,6 @@ This code generated the following published results:
 
 References:
 
-[1] Lei, Y., Chen, B., Liga, G., Deng, X., Cao, Z., Li, J., … Alvarado, A. (2019). Improved decoding of staircase codes: The soft-aided bit-marking (SABM) algorithm. IEEE Transactions on Communications. IEEE. 
+[1] Lei, Y., Chen, B., Liga, G., Deng, X., Cao, Z., Li, J., … and Alvarado, A. (2019). Improved decoding of staircase codes: The soft-aided bit-marking (SABM) algorithm. IEEE Transactions on Communications. IEEE. 
 
-[2] Liga, G., Sheikh, A., & Alvarado, A. (2019). A novel soft-aided bit-marking decoder. In European Conference on Optical Communication (ECOC). 
+[2] Liga, G., Sheikh, A., and Alvarado, A. (2019). A novel soft-aided bit-marking decoder. In European Conference on Optical Communication (ECOC). 
