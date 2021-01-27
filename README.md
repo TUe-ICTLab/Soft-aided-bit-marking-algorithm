@@ -1,5 +1,5 @@
-# SABM
-Code for the implementation of the soft-aided bit-marking decoder and extensions thereof (e.g. SABM-SR)
+# Soft-aided bit-marking decoder code (SABM)
+Code for the implementation of the soft-aided bit-marking decoder and extensions thereof (e.g. SABM-SR).
 This code generated the following published results:
 
 1. Figs. 10 and 11 in [1]
